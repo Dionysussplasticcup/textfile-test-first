@@ -42,6 +42,9 @@ _ _ _
 ### 同义替换 
 **side≈aspect** gl:both sides of the problem=both aspects of the problem
   
+### 近义辨析
+**plant种 园艺方面的植物；grow种 可食用的作物
+  
 ### 口语短句
 **已经见到陌生人，你是谁 :** who are you?
   
