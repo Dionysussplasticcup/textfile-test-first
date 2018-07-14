@@ -54,4 +54,9 @@ _ _ _
   
 ### 短语积累
 **feel like** : 摸起来像、想要=want） 、感觉像是      like做介词还是系动词？   I don`t feel like it.我不想（这样）
+  
+### 单词积累
+服务员美式英语常用server，而不是waiter
+  
+
  
