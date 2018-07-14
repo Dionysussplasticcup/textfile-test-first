@@ -43,8 +43,11 @@ _ _ _
 **side≈aspect** gl:both sides of the problem=both aspects of the problem
   
 ### 口语短句
-**已经见到陌生人，问你是谁用 :** who are you?
-**未知的来访者/通话对象,问你是谁 :** who is it\?\ 
+**已经见到陌生人，你是谁 :** who are you?
+  
+**未知来访者情况，你是谁 :** who is it?
+  
+**电话用语，你是谁 :** who is this?
   
 ### 短语积累
 **feel like** : 摸起来像、想要=want） 、感觉像是      like做介词还是系动词？   I don`t feel like it.我不想（这样）
