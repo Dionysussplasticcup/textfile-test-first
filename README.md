@@ -41,3 +41,7 @@ _ _ _
   
 ### 同义替换 
 **side≈aspect** gl:both sides of the problem=both aspects of the problem
+  
+### 口语短句
+**已经见到陌生人，问你是谁** who are you \?\
+**未知的来访者\/\通话对象** who is it \?\
