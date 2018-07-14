@@ -22,3 +22,5 @@
      
 8. 一月又一月
 4. 一月又一月
+ 
+###同义替换 **side≈aspect** gl:both sides of the problem=both aspects of the problem
